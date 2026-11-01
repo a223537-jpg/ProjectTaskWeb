@@ -2,7 +2,7 @@
   <div class="p-4">
     <a href="home.php" class="navbar-brand">
       <div class="row">
-        <h5 class="">My Company</h5>
+        <h5 class="">Lumière Soap House</h5>
       </div>
     </a>
 
